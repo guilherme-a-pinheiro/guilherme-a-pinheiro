@@ -2,7 +2,7 @@
 Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-readme-stats 
 -->
 
-### Olá! Eu sou o Guilherme Pinheiro, estudante buscando me tornar um desenvolvedor.
+### Olá! Eu sou o Guilherme Pinheiro, um estudante obstinado.
 
 - 🔭 Atualmente estou estudando desenvolvimento web com o foco em front-end
 - 🌱 Estudando JavaScript
