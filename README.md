@@ -5,7 +5,7 @@ Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-read
 ### Olá! Eu sou o Guilherme Pinheiro, um estudante obstinado.
 
 - 🔭 Atualmente estou estudando desenvolvimento web com o foco em front-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript, CSS e HTML
 - 💬 Entre em contato comigo pelo e-mail: guiapinheiro29@gmail.com
 - 😄 Pronouns: ele/dele
 
