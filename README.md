@@ -7,7 +7,7 @@ Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-read
 - 🔭 Atualmente estou estudando desenvolvimento web com o foco em front-end
 - 🌱 Estudando JavaScript, CSS e HTML
 - 💬 Entre em contato comigo pelo e-mail: guiapinheiro29@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/guilherme-a-pinheiro">
