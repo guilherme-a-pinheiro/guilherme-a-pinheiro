@@ -2,12 +2,11 @@
 Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-readme-stats 
 -->
 
-### Olá! Eu sou o Guilherme Pinheiro, um estudante obstinado.
+### Olá! Eu sou o Guilherme Pinheiro, futuro grande desenvolvedor
 
-- 🔭 Atualmente estou estudando desenvolvimento web com o foco em front-end
-- 🌱 Estudando JavaScript, CSS e HTML
+- 🔭 Atualmente estou estudando desenvolvimento web
+- 🌱 Me aprofundando em JavaScript e iniciando os estudos com Java, visando ter uma melhor noção de toda a stack
 - 💬 Entre em contato comigo pelo e-mail: guiapinheiro29@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/guilherme-a-pinheiro">
