@@ -5,7 +5,7 @@ Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-read
 ### Olá! Eu sou o Guilherme Pinheiro, futuro grande desenvolvedor
 
 - 🔭 Atualmente estou estudando desenvolvimento web
-- 🌱 Me aprofundando em JavaScript e seus frameworks e libs
+- 🌱 Me aprofundando em JavaScript, seus frameworks, libs e outras coisas
 - 💬 Entre em contato comigo pelo e-mail: guiapinheiro29@gmail.com
 
 <div align="center">
