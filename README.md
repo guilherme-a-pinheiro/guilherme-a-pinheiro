@@ -2,7 +2,7 @@
 Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-readme-stats 
 -->
 
-### Olá! Eu sou o Guilherme Pinheiro, futuro grande desenvolvedor
+### Olá! Eu sou o Guilherme Pinheiro, aspirante a desenvolvedor web
 
 - 🔭 Atualmente estou estudando desenvolvimento web
 - 🌱 Me aprofundando em JavaScript, seus frameworks, libs e outras coisas
