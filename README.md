@@ -5,7 +5,7 @@ Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-read
 ### Olá! Eu sou o Guilherme Pinheiro, aspirante a desenvolvedor web front-end
 
 - 🔭 Atualmente estou estudando desenvolvimento web
-- 🌱 Me aprofundando em JavaScript, TypeScript e seus frameworks
+- 🌱 Me aprofundando em Desenvolvimento Web e seus correlatos
 - 💬 Entre em contato comigo pelo e-mail: guiapinheiro29@gmail.com
 
 <div align="center">
@@ -21,8 +21,9 @@ Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-read
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  
 </div>
 
   <div align="left">
