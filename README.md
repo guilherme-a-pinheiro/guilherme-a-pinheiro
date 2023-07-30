@@ -16,9 +16,9 @@ Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-read
 
 <div align="center">
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="220" alt="coding-time" src="code.gif">
 <div>
-    <h1>Tecnologias que tenho conhecimento</h1>
+    <h1>Tenho conhecimento em</h1>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,11 +30,5 @@ Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-read
     <img src="https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=%23F7DF1E"/>
     
   
-</div>
-</div>
-
-<div> 
-  <h1>Contato</h1>
-  <a href = "mailto:guiapinheiro29@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-alves-pinheiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </div>
 </div>
