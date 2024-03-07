@@ -5,7 +5,7 @@ Em caso de dúvidas, link do projeto: https://github.com/anuraghazra/github-read
 ### Olá! Eu sou o Guilherme Pinheiro, desenvolvedor web
 
 - 🔭 Atualmente estou focado em entender melhor o funcionamento do frontend no desenvolvimento web
-- 🌱 Me aprofundando em Vue 3 e JavaScript.
+- 🌱 Me aprofundando em Back-end, principalmente em Java.
 - 💬 Entre em contato comigo pelo e-mail: guiapinheiro29@gmail.com
 
 <div align="center">
